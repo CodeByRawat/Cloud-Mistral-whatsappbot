@@ -1,9 +1,5 @@
-flask
+Flask
 requests
-python-dotenv
-# Install local llama_cpp_python wheel
-./llama_cpp_python-0.3.2-cp310-cp310-win_amd64.whl
-langchain
 pandas
-langchain-community
-openpyxl
+python-dotenv
+llama-cpp-python
